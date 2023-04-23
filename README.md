@@ -38,7 +38,6 @@ densenet161  :  22.35   : 6.20
 
 
 
-
 # Prerequisite 
 
 Download anaconda from here https://www.anaconda.com/distribution/#download-section
