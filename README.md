@@ -88,5 +88,4 @@ Go to bash/cmd and type
 
 > python livewebcam.py
 
-
 The model reaches a classification accuracy of 86.00% accuracy on a randomly sampled test set, composed of 20% of the total amount of video sequences from our dataset. Will re-train this model when we have a good GPU and somre data .
