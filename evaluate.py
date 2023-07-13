@@ -55,6 +55,7 @@ criterion = nn.NLLLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 scheduler = lr_scheduler.StepLR(optimizer, step_size=7, gamma=0.1)
 
+
 model = model.cuda()
 
 model.load_state_dict(torch.load('tensorboardexp.pt'))
