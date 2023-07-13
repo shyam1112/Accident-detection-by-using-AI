@@ -90,6 +90,7 @@ while ret:
                 count += 1
                 if counts == 1:
                     webbrowser.open('127.0.0.1', new=2)
+                    
                     counts += 1
 
             labels = 'status: ' + classes[index]
